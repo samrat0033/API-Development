@@ -2,7 +2,7 @@
 DATABASE_URL=postgresql://username:password@localhost:5432/kpa_db
 
 # JWT Configuration
-JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
+JWT_SECRET=
 JWT_ALGORITHM=HS256
 
 # API Configuration
